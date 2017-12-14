@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This repository contains the Open Source [Code of Conduct]() used in the [Multivac Platform.](https://multivac.iscpif.fr)
+This repository contains the Open Source [Code of Conduct](https://github.com/multivacplatform/code-of-conduct/blob/master/code-of-conduct.md) used in the [Multivac Platform.](https://multivac.iscpif.fr)
 
 # License
 
