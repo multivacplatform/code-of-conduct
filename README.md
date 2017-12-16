@@ -8,4 +8,4 @@ This work is licensed under a Creative Commons Attribution 3.0 Unported License
 
 For attribution requirements:
 
-"@TwitterOSS Code of Conduct" © 2013 Twitter, Inc, used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/3.0/
+"Multivac Platform Code of Conduct" © 2015 ISCPIF/CNRS, used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/3.0/
