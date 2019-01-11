@@ -8,4 +8,4 @@ This work is licensed under a Creative Commons Attribution 3.0 Unported License
 
 For attribution requirements:
 
-"Multivac Platform Code of Conduct" © 2015 [ISCPIF/CNRS](https://iscpif.fr), used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/3.0/
+"Multivac Platform Code of Conduct" © 2019 [ISCPIF/CNRS](https://iscpif.fr), used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/3.0/
